@@ -1,0 +1,245 @@
+zip,permit,Neighborhood,count
+10001,no,Chelsea and Clinton,32
+10001,yes,Chelsea and Clinton,9
+10002,no,Lower East Side,6
+10002,yes,Lower East Side,14
+10003,no,Lower East Side,18
+10003,yes,Lower East Side,10
+10004,no,Lower Manhattan,6
+10004,yes,Lower Manhattan,12
+10005,no,Lower Manhattan,13
+10005,yes,Lower Manhattan,9
+10006,no,Lower Manhattan,5
+10006,yes,Lower Manhattan,7
+10007,no,Lower Manhattan,9
+10007,yes,Lower Manhattan,7
+10009,no,Lower East Side,3
+10009,yes,Lower East Side,2
+10010,no,Gramercy Park and Murray Hill,12
+10010,yes,Gramercy Park and Murray Hill,3
+10011,no,Chelsea and Clinton,8
+10011,yes,Chelsea and Clinton,6
+10012,no,Greenwich Village and Soho,11
+10012,yes,Greenwich Village and Soho,9
+10013,no,Greenwich Village and Soho,12
+10013,yes,Greenwich Village and Soho,9
+10014,no,Greenwich Village and Soho,4
+10014,yes,Greenwich Village and Soho,2
+10016,no,Gramercy Park and Murray Hill,10
+10016,yes,Gramercy Park and Murray Hill,7
+10017,no,Gramercy Park and Murray Hill,8
+10017,yes,Gramercy Park and Murray Hill,7
+10018,no,Chelsea and Clinton,11
+10018,yes,Chelsea and Clinton,7
+10019,no,Chelsea and Clinton,28
+10019,yes,Chelsea and Clinton,19
+10020,no,Chelsea and Clinton,9
+10020,yes,Chelsea and Clinton,6
+10021,no,Upper East Side,2
+10021,yes,Upper East Side,2
+10022,no,Gramercy Park and Murray Hill,13
+10022,yes,Gramercy Park and Murray Hill,7
+10023,no,Upper West Side,7
+10023,yes,Upper West Side,5
+10024,no,Upper West Side,2
+10024,yes,Upper West Side,2
+10025,no,Upper West Side,5
+10025,yes,Upper West Side,4
+10026,no,Central Harlem,3
+10026,yes,NA,0
+10027,no,Central Harlem,15
+10027,yes,Central Harlem,6
+10028,no,Upper East Side,6
+10028,yes,Upper East Side,2
+10029,no,East Harlem,21
+10029,yes,East Harlem,2
+10030,no,Central Harlem,2
+10030,yes,NA,0
+10031,no,Inwood and Washington Heights,6
+10031,yes,NA,0
+10032,no,Inwood and Washington Heights,8
+10032,yes,Inwood and Washington Heights,2
+10033,no,Inwood and Washington Heights,6
+10033,yes,NA,0
+10034,no,Inwood and Washington Heights,4
+10034,yes,NA,0
+10035,no,East Harlem,2
+10035,yes,East Harlem,2
+10036,no,Chelsea and Clinton,39
+10036,yes,Chelsea and Clinton,24
+10037,no,NA,0
+10037,yes,Central Harlem,1
+10038,no,Lower Manhattan,4
+10038,yes,Lower Manhattan,8
+10039,no,Central Harlem,2
+10039,yes,Central Harlem,1
+10040,no,Inwood and Washington Heights,4
+10040,yes,Inwood and Washington Heights,1
+10044,no,Upper East Side,3
+10044,yes,NA,0
+10065,no,Upper East Side,6
+10065,yes,Upper East Side,4
+10075,no,Upper East Side,3
+10075,yes,Upper East Side,2
+10128,no,Upper East Side,1
+10128,yes,Upper East Side,1
+10280,no,Lower Manhattan,1
+10280,yes,NA,0
+10302,no,Port Richmond,1
+10302,yes,Port Richmond,1
+10303,no,Port Richmond,1
+10303,yes,NA,0
+10304,no,NA,0
+10304,yes,Stapleton and St. George,1
+10451,no,High Bridge and Morrisania,8
+10451,yes,High Bridge and Morrisania,1
+10452,no,High Bridge and Morrisania,5
+10452,yes,High Bridge and Morrisania,1
+10453,no,Central Bronx,2
+10453,yes,NA,0
+10454,no,Hunts Point and Mott Haven,2
+10454,yes,NA,0
+10455,no,Hunts Point and Mott Haven,8
+10455,yes,Hunts Point and Mott Haven,1
+10457,no,NA,0
+10457,yes,Central Bronx,1
+10458,no,Bronx Park and Fordham,22
+10458,yes,Bronx Park and Fordham,2
+10460,no,Central Bronx,2
+10460,yes,Central Bronx,1
+10461,no,Southeast Bronx,6
+10461,yes,Southeast Bronx,1
+10462,no,Southeast Bronx,4
+10462,yes,NA,0
+10463,no,Kingsbridge and Riverdale,1
+10463,yes,NA,0
+10465,no,Southeast Bronx,1
+10465,yes,Southeast Bronx,1
+10466,no,Northeast Bronx,1
+10466,yes,Northeast Bronx,1
+10467,no,Bronx Park and Fordham,11
+10467,yes,NA,0
+10468,no,Bronx Park and Fordham,12
+10468,yes,Bronx Park and Fordham,1
+10469,no,Northeast Bronx,1
+10469,yes,NA,0
+10472,no,Southeast Bronx,10
+10472,yes,Southeast Bronx,2
+10473,no,NA,0
+10473,yes,Southeast Bronx,1
+11101,no,Northwest Queens,11
+11101,yes,Northwest Queens,2
+11103,no,Northwest Queens,1
+11103,yes,NA,0
+11104,no,Northwest Queens,3
+11104,yes,Northwest Queens,1
+11106,no,Northwest Queens,1
+11106,yes,Northwest Queens,2
+11201,no,Northwest Brooklyn,8
+11201,yes,Northwest Brooklyn,3
+11203,no,Flatbush,1
+11203,yes,Flatbush,2
+11204,no,Borough Park,2
+11204,yes,NA,0
+11205,no,Northwest Brooklyn,1
+11205,yes,NA,0
+11206,no,NA,0
+11206,yes,Bushwick and Williamsburg,1
+11207,no,East New York and New Lots,6
+11207,yes,NA,0
+11208,no,East New York and New Lots,4
+11208,yes,East New York and New Lots,1
+11209,no,NA,0
+11209,yes,Southwest Brooklyn,2
+11210,no,Flatbush,1
+11210,yes,Flatbush,1
+11211,no,Greenpoint,2
+11211,yes,Greenpoint,1
+11213,no,Central Brooklyn,1
+11213,yes,NA,0
+11214,no,Southwest Brooklyn,2
+11214,yes,NA,0
+11215,no,Northwest Brooklyn,1
+11215,yes,NA,0
+11216,no,Central Brooklyn,1
+11216,yes,NA,0
+11217,no,Northwest Brooklyn,18
+11217,yes,Northwest Brooklyn,8
+11218,no,Borough Park,2
+11218,yes,Borough Park,1
+11219,no,Borough Park,3
+11219,yes,Borough Park,1
+11220,no,Sunset Park,18
+11220,yes,Sunset Park,3
+11221,no,Bushwick and Williamsburg,3
+11221,yes,Bushwick and Williamsburg,3
+11222,no,Greenpoint,1
+11222,yes,NA,0
+11223,no,Southern Brooklyn,1
+11223,yes,Southern Brooklyn,1
+11224,no,Southern Brooklyn,2
+11224,yes,NA,0
+11226,no,Flatbush,10
+11226,yes,Flatbush,1
+11231,no,Northwest Brooklyn,2
+11231,yes,NA,0
+11232,no,Sunset Park,2
+11232,yes,NA,0
+11233,no,Central Brooklyn,1
+11233,yes,NA,0
+11235,no,Southern Brooklyn,2
+11235,yes,NA,0
+11237,no,Bushwick and Williamsburg,17
+11237,yes,Bushwick and Williamsburg,3
+11238,no,NA,0
+11238,yes,Central Brooklyn,1
+11354,no,North Queens,39
+11354,yes,North Queens,4
+11355,no,North Queens,4
+11355,yes,North Queens,10
+11356,no,North Queens,1
+11356,yes,NA,0
+11357,no,North Queens,1
+11357,yes,NA,0
+11358,no,North Queens,1
+11358,yes,NA,0
+11367,no,Central Queens,1
+11367,yes,NA,0
+11368,no,West Queens,185
+11368,yes,West Queens,24
+11369,no,West Queens,2
+11369,yes,West Queens,3
+11370,no,West Queens,10
+11370,yes,West Queens,3
+11372,no,West Queens,30
+11372,yes,West Queens,7
+11373,no,West Queens,27
+11373,yes,West Queens,6
+11374,no,West Central Queens,2
+11374,yes,West Central Queens,1
+11375,no,West Central Queens,2
+11375,yes,NA,0
+11377,no,West Queens,2
+11377,yes,West Queens,1
+11385,no,West Central Queens,7
+11385,yes,NA,0
+11411,no,Southeast Queens,1
+11411,yes,NA,0
+11418,no,Southwest Queens,2
+11418,yes,NA,0
+11419,no,Southwest Queens,1
+11419,yes,NA,0
+11421,no,Southwest Queens,8
+11421,yes,NA,0
+11422,no,Southeast Queens,1
+11422,yes,NA,0
+11432,no,Jamaica,6
+11432,yes,NA,0
+11433,no,Jamaica,2
+11433,yes,NA,0
+11434,no,Jamaica,1
+11434,yes,Jamaica,2
+11435,no,Jamaica,1
+11435,yes,NA,0
+11693,no,Rockaways,1
+11693,yes,NA,0

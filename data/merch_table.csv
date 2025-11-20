@@ -1,0 +1,33 @@
+Borough,Neighborhood,no,yes,order
+Bronx,Bronx Park and Fordham,15,5,0
+Bronx,Central Bronx,3,0,0
+Bronx,High Bridge and Morrisania,4,1,0
+Bronx,Southeast Bronx,2,0,0
+Bronx,Other Bronx,5,11,1
+Bronx,Total,29,17,2
+Brooklyn,Borough Park,1,0,0
+Brooklyn,Bushwick and Williamsburg,13,1,0
+Brooklyn,Flatbush,1,2,0
+Brooklyn,Northwest Brooklyn,3,2,0
+Brooklyn,Southwest Brooklyn,1,1,0
+Brooklyn,Sunset Park,2,1,0
+Brooklyn,Other Brooklyn,2,1,1
+Brooklyn,Total,23,8,2
+Manhattan,Central Harlem,7,9,0
+Manhattan,Chelsea and Clinton,7,136,0
+Manhattan,East Harlem,3,8,0
+Manhattan,Gramercy Park and Murray Hill,1,29,0
+Manhattan,Greenwich Village and Soho,2,12,0
+Manhattan,Inwood and Washington Heights,2,0,0
+Manhattan,Lower East Side,3,9,0
+Manhattan,Lower Manhattan,1,23,0
+Manhattan,Upper East Side,1,23,0
+Manhattan,Upper West Side,1,22,0
+Manhattan,Total,28,271,2
+Queens,Jamaica,2,0,0
+Queens,North Queens,6,1,0
+Queens,Northwest Queens,2,0,0
+Queens,West Queens,91,5,0
+Queens,Other Queens,3,1,1
+Queens,Total,104,7,2
+Total,Total,197,308,2
